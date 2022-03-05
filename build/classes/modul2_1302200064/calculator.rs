@@ -1,0 +1,15 @@
+modul2_1302204009.calculator$14
+modul2_1302204009.calculator$12
+modul2_1302204009.calculator$9
+modul2_1302204009.calculator$13
+modul2_1302204009.calculator$10
+modul2_1302204009.calculator$11
+modul2_1302204009.calculator$6
+modul2_1302204009.calculator$5
+modul2_1302204009.calculator$8
+modul2_1302204009.calculator$7
+modul2_1302204009.calculator$2
+modul2_1302204009.calculator$1
+modul2_1302204009.calculator$4
+modul2_1302204009.calculator$3
+modul2_1302204009.calculator
